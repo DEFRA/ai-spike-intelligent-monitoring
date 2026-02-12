@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 09 Feb 2026 22:58:46 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Cabinet ministers rally round PM as Sarwar calls for him to quit]]></title>
+            <description><![CDATA[The Scottish Labour leader says No 10 has "not been good enough" but Sir Keir insists he will not resign. ]]></description>
+            <link>https://www.bbc.com/news/articles/c89kwj8kjy9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89kwj8kjy9o#0</guid>
+            <pubDate>Mon, 09 Feb 2026 22:29:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c992/live/a63b2360-0606-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Labour leader makes his biggest political gamble - but can it pay off?]]></title>
+            <description><![CDATA[The call for Sir Keir Starmer to resign is a defining moment in Sarwar's leadership of Scottish Labour.]]></description>
+            <link>https://www.bbc.com/news/articles/c6264y17z5yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6264y17z5yo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 21:38:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa7c/live/e87d9c60-05bd-11f1-b8f3-e5c6454cb301.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No regrets' - Vonn sustains 'complex tibia fracture']]></title>
+            <description><![CDATA[American skier Lindsey Vonn says she has "no regrets" after a crash in the women's downhill competition at the Winter Olympics resulted in a "complex tibia fracture".]]></description>
+            <link>https://www.bbc.com/sport/articles/cm2r47pj51zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cm2r47pj51zo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 22:40:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f4/live/29e0b6d0-0602-11f1-b4d5-fd4a09184f97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savannah Guthrie pleads for help as missing mother's ransom deadline looms]]></title>
+            <description><![CDATA[The video appeal comes as a deadline looms to pay the people believed to be holding the TV hosts's mum.]]></description>
+            <link>https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4geqzqd8qeo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 22:24:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a79d/live/e8aa6400-0605-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC assesses weaponry used to massacre Iran's protesters]]></title>
+            <description><![CDATA[BBC News Persian Forensic has been able to confirm the security forces' deployment of a wide array of lethal and non-lethal weaponry.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mgndkklvmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mgndkklvmo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 17:03:49 GMT</pubDate>
+            <media:thumbnail width="240" height="149" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4b/live/c6e24830-0117-11f1-a8b8-bdd2c5f9bcad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Streeting's Mandelson messages reveal election fears and criticism of government]]></title>
+            <description><![CDATA[The health secretary says he is publishing the messages "after a weekend of smear and innuendo that I have something to hide".]]></description>
+            <link>https://www.bbc.com/news/articles/c4gjle7g13xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gjle7g13xo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 21:19:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9c1/live/2ae08020-05ed-11f1-9855-27ed2e28770c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians say new Israeli measures in West Bank amount to de facto annexation]]></title>
+            <description><![CDATA[The measures aim to increase Israeli control over the occupied West Bank in terms of property law, planning, licensing and enforcement.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5x2l3v0qo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 21:20:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c000/live/dafb5050-05c7-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[£5bn council SEND debts to be paid off by government]]></title>
+            <description><![CDATA[It comes days after the Local Government Association warned that eight in 10 English councils would face bankruptcy, if they had to honour deficits.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd95572xpeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd95572xpeo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 22:13:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f6/live/5e029a10-d672-11f0-91f5-0bd827601511.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of Hillsborough victims criticise 'hollow' police apology]]></title>
+            <description><![CDATA[Trevor and Jenni Hicks, whose daughters died at Hillsborough, want court records to be corrected.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6zqqj4n38o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6zqqj4n38o#0</guid>
+            <pubDate>Mon, 09 Feb 2026 20:48:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43c/live/fd54c920-05f3-11f1-b12d-b777ceb29e2d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Airport safety concerns ground flights from remote British overseas island of St Helena]]></title>
+            <description><![CDATA[Residents on the remote British overseas territory have been left stranded after fire safety concerns grounded flights.]]></description>
+            <link>https://www.bbc.com/news/articles/c20z4p01qndo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20z4p01qndo#0</guid>
+            <pubDate>Mon, 09 Feb 2026 17:25:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8106/live/b6c012d0-05d5-11f1-a351-bb43301b14c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[So close to a 'world first' - fourth for Brookes on frustrating day for Team GB]]></title>
+            <description><![CDATA[Mia Brookes finishes fourth in the snowboard big air final - ending a frustrating day for Team GB that had promised so much more.]]></description>
+            <link>https://www.bbc.com/sport/articles/crrxlvpnw4ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/crrxlvpnw4ko#1</guid>
+            <pubDate>Mon, 09 Feb 2026 20:06:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f064/live/27cfc0e0-05f1-11f1-9457-67913c974933.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympic bosses investigate why medals are breaking]]></title>
+            <description><![CDATA[Milan-Cortina 2026 organisers say they are "looking closely" at the issue of Olympic medals breaking after several athletes suffered issues with their prizes.]]></description>
+            <link>https://www.bbc.com/sport/articles/c4g5lj59rr9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c4g5lj59rr9o#1</guid>
+            <pubDate>Mon, 09 Feb 2026 11:36:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db1/live/c1404e00-05c1-11f1-b8f3-e5c6454cb301.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine skeleton racer says war victim helmet banned]]></title>
+            <description><![CDATA[Ukranian skeleton racer Vladyslav Heraskevych claims the IOC has banned his helmet featuring images of people killed in the war in his home country, in a decision that "breaks my heart".]]></description>
+            <link>https://www.bbc.com/sport/articles/czj1yj9pj00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/czj1yj9pj00o#1</guid>
+            <pubDate>Mon, 09 Feb 2026 22:45:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e827/live/275a10f0-05cb-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB in curling medal match - Tuesday's guide]]></title>
+            <description><![CDATA[What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.]]></description>
+            <link>https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c338y36kngzo#1</guid>
+            <pubDate>Mon, 09 Feb 2026 22:04:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f362/live/71510460-0220-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrity appearances, controversial ads and other Super Bowl takeaways]]></title>
+            <description><![CDATA[Celebrities including Lady Gaga, Cardi B and Jessica Alba joined Bad Bunny's Super Bowl half time show.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5n8lg2jrdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5n8lg2jrdo#2</guid>
+            <pubDate>Mon, 09 Feb 2026 14:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d6/live/2c3f0e40-05b7-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Businesses face extinction unless they protect nature, major report warns]]></title>
+            <description><![CDATA[Experts call for urgent action by businesses to restore the natural systems that keep them running.]]></description>
+            <link>https://www.bbc.com/news/articles/cq8g20xgdjwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8g20xgdjwo#2</guid>
+            <pubDate>Mon, 09 Feb 2026 13:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd8/live/f7180f30-05b3-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The tech firms embracing a 72-hour working week]]></title>
+            <description><![CDATA[In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn2k285ypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn2k285ypo#2</guid>
+            <pubDate>Mon, 09 Feb 2026 00:01:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My songs get tens of thousands of likes but each Spotify stream earns me just £0.003]]></title>
+            <description><![CDATA[A 10 second part of a song can go viral - but this is no guarantee anyone will listen to it in full.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2yv25l8dro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2yv25l8dro#2</guid>
+            <pubDate>Mon, 09 Feb 2026 08:49:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/841c/live/4cfd3f20-fdf7-11f0-a8b8-bdd2c5f9bcad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Late goals are destroying Liverpool's season and the answers aren't obvious]]></title>
+            <description><![CDATA[Why have Liverpool gone from mentality monsters to a side there for the taking?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c5y4de19xlwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y4de19xlwo#2</guid>
+            <pubDate>Mon, 09 Feb 2026 14:48:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a16/live/2c96e7b0-05b6-11f1-8336-6d2201ebafb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 90 flood warnings in place across UK as forecasters warn 'no sign' of dry spell]]></title>
+            <description><![CDATA[More than 90 flood warnings are in place covering south-west and south-east England, London and south Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cje1eq9z08wo#4</guid>
+            <pubDate>Mon, 09 Feb 2026 16:30:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ee/live/e2009060-05c5-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extreme cold in New York City leaves 18 dead ]]></title>
+            <description><![CDATA[Homeless shelter capacity has been increased following a period of freezing temperatures in the city.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9g8nxdexko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9g8nxdexko#4</guid>
+            <pubDate>Mon, 09 Feb 2026 22:45:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/ef41bd80-05f7-11f1-b12d-b777ceb29e2d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran arrests reformists as crackdown on dissent widens, reports say]]></title>
+            <description><![CDATA[The head of the main reformist coalition, Azar Mansouri, is said to be among those held a month after security forces crushed nationwide protests.]]></description>
+            <link>https://www.bbc.com/news/articles/cy03gnd74n5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy03gnd74n5o#4</guid>
+            <pubDate>Mon, 09 Feb 2026 18:26:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a5/live/f61f3e30-05dd-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US boards tanker in Indian Ocean it 'tracked and hunted' from Caribbean]]></title>
+            <description><![CDATA[The US defended its actions, saying the ship defied a quarantine it has placed on oil tankers leaving Venezuela.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y4dyp0765o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y4dyp0765o#4</guid>
+            <pubDate>Mon, 09 Feb 2026 16:56:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551f/live/7dc89f40-05dc-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Friends set for new UK streamer as HBO Max reveals launch plans]]></title>
+            <description><![CDATA[HBO Max will join the UK's streaming wars on 26 March, with shows including Friends and The Pitt.]]></description>
+            <link>https://www.bbc.com/news/articles/c3093e0pyv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3093e0pyv3o#4</guid>
+            <pubDate>Mon, 09 Feb 2026 16:40:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f83b/live/c9f10cb0-cf70-11f0-b355-05c29911d4af.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Children in Care: How to Fix the Fostering Crisis]]></title>
+            <description><![CDATA[Foster carer Louise Allen says the problem isn’t the children, it’s the system.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002q39v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002q39v#6</guid>
+            <pubDate>Thu, 22 Jan 2026 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lgrqgm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[So close to a 'world first' - fourth for Brookes on frustrating day for Team GB]]></title>
+            <description><![CDATA[Mia Brookes finishes fourth in the snowboard big air final - ending a frustrating day for Team GB that had promised so much more.]]></description>
+            <link>https://www.bbc.com/sport/articles/crrxlvpnw4ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/crrxlvpnw4ko#8</guid>
+            <pubDate>Mon, 09 Feb 2026 20:06:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f064/live/27cfc0e0-05f1-11f1-9457-67913c974933.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No regrets' - Vonn sustains 'complex tibia fracture']]></title>
+            <description><![CDATA[American skier Lindsey Vonn says she has "no regrets" after a crash in the women's downhill competition at the Winter Olympics resulted in a "complex tibia fracture".]]></description>
+            <link>https://www.bbc.com/sport/articles/cm2r47pj51zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cm2r47pj51zo#8</guid>
+            <pubDate>Mon, 09 Feb 2026 22:40:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f4/live/29e0b6d0-0602-11f1-b4d5-fd4a09184f97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serena Williams can return from 22 February - but will she?]]></title>
+            <description><![CDATA[American great Serena Williams is eligible to return to competition on 22 February when she will have completed the reinstatement process.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cz9qpw8q35eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz9qpw8q35eo#8</guid>
+            <pubDate>Mon, 09 Feb 2026 19:49:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4007/live/92efe470-05e9-11f1-a6a9-c501fa988ff8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Darnold's Super Bowl win - the ultimate redemption story?]]></title>
+            <description><![CDATA[Sam Darnold leading the Seattle Seahawks to Super Bowl glory could just be the greatest redemption story ever in the NFL. We take a closer look.]]></description>
+            <link>https://www.bbc.com/sport/american-football/articles/ce8w172dnkwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/american-football/articles/ce8w172dnkwo#8</guid>
+            <pubDate>Mon, 09 Feb 2026 21:56:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c71/live/ac753a50-05fb-11f1-b7e1-afb6d0884c18.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine skeleton racer claims war victim helmet banned by IOC]]></title>
+            <description><![CDATA[Ukranian skeleton racer Vladyslav Heraskevych claims the IOC has banned his helmet featuring images of people killed in the war in his home country, in a decision that "breaks my heart".]]></description>
+            <link>https://www.bbc.com/sport/articles/czj1yj9pj00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/czj1yj9pj00o#8</guid>
+            <pubDate>Mon, 09 Feb 2026 22:45:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e827/live/275a10f0-05cb-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['She had gold in her hands!' - GB's Brookes' costly landing on huge final jump]]></title>
+            <description><![CDATA[Team GB's Mia Brookes finishes just outside the medals in the women's snowboard big air final, taking fourth after an ambitious final jump.]]></description>
+            <link>https://www.bbc.com/sport/videos/cdxg992e7ppo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/videos/cdxg992e7ppo#8</guid>
+            <pubDate>Mon, 09 Feb 2026 20:06:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ee/live/65450cb0-05f0-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+    </channel>
+</rss>
