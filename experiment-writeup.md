@@ -1,5 +1,6 @@
 # AI Intelligent Monitoring Spike - Writeup
 
+Date: `2026-01-05` to `2026-01-09`
 Status: Abandoned
 
 ## Need
@@ -35,7 +36,7 @@ Validated that LLMs can automatically triage live data streams as expected, succ
 
 ### Key Findings
 
-- LLMs effectively process and categorize streaming feed data, demonstrating the feasibility of the watchdog pattern
+- gd categorize streaming feed data, demonstrating the feasibility of the watchdog pattern
 - The value proposition lies primarily in system design and integration patterns rather than breakthrough AI capabilities
 - Embedding-based retrieval combined with LLM analysis shows promise for token optimization, as demonstrated in the [token optimization PoC](https://github.com/DEFRA/ai-spike-token-optimisation)
 - Pydantic AI proved useful for obtaining reliable schema-typed outputs, though users should remain aware that the underlying model behavior remains non-deterministic despite structured output formatting
