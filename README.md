@@ -57,6 +57,8 @@ Below is a description of the environment variables:
 | `AZURE_OPENAI_API_KEY`      | Yes      | None                  | API key for accessing Azure OpenAI service      |
 | `OPENAI_API_VERSION`        | Yes      | `2024-05-01-preview`  | Azure OpenAI API version                        |
 
+`AZURE_OPENAI_ENDPOINT` may point to an Azure AI Foundry project/resource (this is the preferred and tested option for the experiments in this repository), or it can point directly to an Azure OpenAI Service endpoint. We recommend using an AI Foundry resource where possible — if you choose to use Azure OpenAI Service directly, ensure the endpoint URL and `AZURE_OPENAI_API_KEY` correspond to that service.
+
 ## Notebooks
 The experiments are contained within Jupyter notebooks located in the `notebooks/` directory.
 
